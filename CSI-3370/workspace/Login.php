@@ -59,6 +59,7 @@ session_destroy();
 		position: relative;
 		border-radius: 20px;
 		opacity: .7;
+		color: white;
 	}
 /*	#login h1{
 		text-align:center;
